@@ -1,0 +1,14 @@
+# OS files
+.DS_Store
+
+# Build output
+purrfect-homes.zip
+
+# IDE files
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Wireframe image (not needed in production)
+Wireframe.png
